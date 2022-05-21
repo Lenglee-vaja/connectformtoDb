@@ -1,0 +1,11 @@
+C:\Users\ACER\source\repos\fromEmployee\fromEmployee\obj\Debug\fromEmployee.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\fromEmployee\fromEmployee\obj\Debug\fromEmployee.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\source\repos\fromEmployee\fromEmployee\obj\Debug\fromEmployee.Form1.resources
+C:\Users\ACER\source\repos\fromEmployee\fromEmployee\obj\Debug\fromEmployee.Properties.Resources.resources
+C:\Users\ACER\source\repos\fromEmployee\fromEmployee\obj\Debug\fromEmployee.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\fromEmployee\fromEmployee\obj\Debug\fromEmployee.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\fromEmployee\fromEmployee\bin\Debug\fromEmployee.exe.config
+C:\Users\ACER\source\repos\fromEmployee\fromEmployee\bin\Debug\fromEmployee.exe
+C:\Users\ACER\source\repos\fromEmployee\fromEmployee\bin\Debug\fromEmployee.pdb
+C:\Users\ACER\source\repos\fromEmployee\fromEmployee\obj\Debug\fromEmployee.exe
+C:\Users\ACER\source\repos\fromEmployee\fromEmployee\obj\Debug\fromEmployee.pdb
